@@ -5,3 +5,4 @@ float64 cpu_load
 float64 voltage
 string mac_address
 string bar_code
+string container_status
